@@ -1,0 +1,5 @@
+project:
+    name: airflow-course
+
+postgres:
+  port: 5435 
